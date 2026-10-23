@@ -1,14 +1,14 @@
 ```py
 
   ╭────────────────────────────────────╮
-  │           DEVELOPER INFO           │
+  │             About Me               │
   ├────────────────────────────────────┤
   │  USER     : lost                   │
   │  OS       : Windows                │
-  │  STATUS   : Online                 │
+  │  STATUS   : Working                │
   ╰────────────────────────────────────╯
 
   [LANGUAGES] Rust | Go | Python | Lua
   [INTERESTS] Automation | Development
-  [MINDSET]   Always learning.
+  [CURRENT PROJECT] Private 🤫
 ```
