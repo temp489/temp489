@@ -9,6 +9,6 @@
   ╰────────────────────────────────────╯
 
   [LANGUAGES] Rust | Go | Python | Lua
-  [INTERESTS] Automation | Development
-  [CURRENT PROJECT] Private 🤫
+  [INTERESTS] Automation | PEN-TESTING | DEVELOPMENT
+  [CURRENT PROJECT] Web Automation
 ```
