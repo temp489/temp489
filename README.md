@@ -1,10 +1,14 @@
 ```py
 
-class AboutMe:
-    name = "lost"
-    languages = ["Rust", "Go", "Python", "Lua"]
-    interests = ["Automation", "Development"]
-    status = "Always learning."
+  ╭────────────────────────────────────╮
+  │           DEVELOPER INFO           │
+  ├────────────────────────────────────┤
+  │  USER     : lost                   │
+  │  OS       : Windows                │
+  │  STATUS   : Online                 │
+  ╰────────────────────────────────────╯
 
-me = AboutMe()
+  [LANGUAGES] Rust | Go | Python | Lua
+  [INTERESTS] Automation | Development
+  [MINDSET]   Always learning.
 ```
