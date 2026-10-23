@@ -1,10 +1,10 @@
 ```py
 
-class Developer:
-    name = "your_username"
-    languages = ["Python", "JavaScript", "Lua"]
+class AboutMe:
+    name = "lost"
+    languages = ["Rust", "Go", "Python", "Lua"]
     interests = ["Automation", "Development"]
     status = "Always learning."
 
-me = Developer()
+me = AboutMe()
 ```
